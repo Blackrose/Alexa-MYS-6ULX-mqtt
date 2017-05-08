@@ -1,0 +1,5 @@
+certRootFile="./cert/root-CA.crt"
+certFile="./cert/*-certificate.pem.crt"
+certPrivateFile="./cert/*-private.pem.key"
+AWSIoTEndPoint="*.iot.us-east-1.amazonaws.com"
+AWSIoT_ID=""
